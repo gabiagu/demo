@@ -1,8 +1,5 @@
 {
-  "Alpha001": {
-    "title": "Expedition Alpha",
-    "id":1,
-    "days": [
+  "Alpha001": [
       {
         "id": 823,
         "listId":1,
@@ -66,8 +63,7 @@
         "fullDate": "08/29/2018",
         "activities": []
       }
-    ]
-  },
+    ],
   "Alpha002": {
     "Day1": [
       {
